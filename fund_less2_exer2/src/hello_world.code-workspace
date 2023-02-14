@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../hello_world"
+		},
+		{
+			"name": "blinky",
+			"path": "../../../../../blinky/blinky"
+		},
+		{
+			"name": "fund_less2_exer1",
+			"path": "../../fund_less2_exer1"
+		},
+		{
+			"name": "fund_less2_exer2",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"nrf-connect.topdir": "${nrf-connect.sdk:2.2.0}",
+		"nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.2.0}",
+		"nrf-connect.applications": [
+			".",
+			"/Users/zhouye/nordic/myApps/blinky/blinky",
+			"/Users/zhouye/nordic/myApps/nRF-Connect-SDK-Fundamentals/v2.x.x/lesson2/fund_less2_exer1",
+			"/Users/zhouye/nordic/myApps/nRF-Connect-SDK-Fundamentals/v2.x.x/lesson2/fund_less2_exer2"
+		]
+	}
+}
