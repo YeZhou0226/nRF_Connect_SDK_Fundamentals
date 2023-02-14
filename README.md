@@ -4,6 +4,7 @@ Tutorial from DevAcademy
 https://academy.nordicsemi.com/courses/nrf-connect-sdk-fundamentals/
 
 Lesson 1 – nRF Connect SDK Introduction
+
 Understand the structure and content of the nRF Connect SDK
 Learn how to download and install the nRF Connect SDK
 Learn how to set up the nRF Connect for VS Code extension pack
@@ -13,6 +14,7 @@ Learn how to flash applications to boards
 Run your first application blinky, which toggles an LED on your Nordic-based board
 
 Lesson 2 – Reading buttons and controlling LEDs
+
 Examine the devicetree API <zephyr/devicetree.h>
 Examine board-level devicetree .dts
 Examine SoC-level devicetree .dtsi
@@ -23,6 +25,7 @@ Examine the generic GPIO interface APIs <zephyr/drivers/gpio.h>
 Practice through hands-on exercises configuring GPIO pins and learn how to read/write to/from GPIO pins and how to set up interrupts for input GPIO pins
 
 Lesson 3 – Elements of an nRF Connect SDK application
+
 Understand the use of Kconfig configuration files to enable and configure the different software modules available in the nRF Connect SDK
 Examine an application configuration file and a board configuration file and understand the relation between them
 Learn how to explore the available configuration options of a certain software module using guiconfig
