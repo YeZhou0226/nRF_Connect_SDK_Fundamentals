@@ -49,4 +49,15 @@ Lesson 3 – Elements of an nRF Connect SDK application
 
 5. Practice through hands-on exercises how to create an application from scratch, and how to add modules using Kconfig and modify the devicetree
 
-2023.2.13: Finished lesson 3. For Macbook, using built-in terminal in VS Code called "NRF TERMINAL" instead of PuTTY for serial output.
+Lesson 4 – Printing messages to console and logging
+
+Learn how to print strings and formatted strings to a console using printk()
+1. Recognize the limitations of printk()
+2. Learn how to print strings and formatted strings to a console using the logger module
+3. Learn how to hex dump variables using the logger module
+4. Explore the logger module features
+5. Practice through hands-on exercises enabling/configuring software modules
+
+2023.2.13: Finished lesson 3. For Macbook, using built-in terminal in VS Code called "NRF TERMINAL" instead of PuTTY for serial output. Use VCOM1 for NRF TERMINAL.
+
+2023.2.14: Finished lesson 4. In Exercise2 proj.conf, make sure enable the logger module using "CONFIG_LOG=y".
